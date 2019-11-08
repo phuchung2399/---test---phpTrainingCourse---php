@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#container-fluid {
+  width: 100%;
+  height: 100%;
+}
+#header {
+  background-color: #e1f4fd;
+}
+#logo {
+  margin-top: 20px;
+  margin-left: 150px;
+}
+
+.menu {
+  margin-top: 40px;
+  margin-right: 100px;
+}
+#navbar {
+  display: flex;
+}
+.form {
+  margin-top: 50px;
+}
+#input-form {
+  display: flex;
+}
+.form-group {
+  margin-left: 200px;
+}
+.navbar-nav a {
+  letter-spacing: 5px;
+  color: #333;
+}
+#form-checkbox {
+  margin-left: 20px;
+}
+#input-description {
+  width: 500px;
+  margin-left: 120px;
+}
+#find-button {
+  margin-left: 50px;
+}
+.button {
+  width: 120px;
+}
+.content {
+  margin-left: 250px;
+  margin-top: 50px;
+}
+#data-tyle {
+  color: #1d9a00;
+}
